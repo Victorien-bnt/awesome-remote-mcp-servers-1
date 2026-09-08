@@ -309,6 +309,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Firecrawl](https://firecrawl.dev) `https://mcp.firecrawl.dev/v2/mcp`
   [![Firecrawl MCP connector](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.firecrawl.mcp/firecrawl-mcp)
   ⚡ 🔓 🆓 - Crawl, scrape, and extract structured data from websites.
+- [gluten-free.fr](https://gluten-free.fr) `https://gluten-free.fr/api/mcp`
+  ⚡ 🔓 🆓 - Verified gluten-free product catalogue and comparison data for the French market.
 - [Simplescraper](https://simplescraper.io) `https://mcp.simplescraper.io/mcp`
   ⚡ 🔐 - Scrape websites and run saved extraction recipes.
 - [Tavily](https://tavily.com) `https://mcp.tavily.com/mcp`
